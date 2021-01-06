@@ -1,0 +1,5 @@
+server:
+  port: 8381
+
+feature-operation:
+    math-0peration-on: true
